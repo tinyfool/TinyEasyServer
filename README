@@ -5,7 +5,7 @@ TinyEasyServer是一个非常简单的Java嵌入Web Server，最早用于我开�
 
 public class MyServer {
 
-	public static void main(String[] args) throws IOException, TasteException {
+	public static void main(String[] args) throws IOException {
 
 
 		TinyEasyServer server = new TinyEasyServer();
